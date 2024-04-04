@@ -74,6 +74,7 @@ li {
     grid-row-start: 2;
     grid-row-end:5;
     background-color: rgb(41, 39, 39);
+    overflow: scroll; height: 500px;
 
 }
 
