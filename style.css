@@ -153,6 +153,20 @@ aside{
     background-color: rgb(255, 255, 255);
     }
 
+    .botton4{
+        margin-top: 1em;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-bottom: 1em;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    border-radius:  8em;
+    background-color: rgb(255, 255, 255);
+
+    }
+    
     .btn{
         color:rgb(27, 27, 27);
     }
@@ -164,10 +178,6 @@ aside{
         text-decoration: none;
     }
     
-
-
-
-
 ul{
     list-style-type: none;
 }
@@ -176,9 +186,14 @@ ul{
     text-decoration: none;
 }
 
-/*  */
+.text{
+    list-style-type: none;
+    color: rgb(224, 224, 221);
+    display:flex;
+    align-content: end;
+    
+}
 
-sss 
 
     
 
