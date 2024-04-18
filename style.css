@@ -22,9 +22,9 @@ body {
 }
 
 main{
-   font-size: 30px;
+   font-size: 22px;
    border-radius: 40px;
-   background-color: rgb(17, 17, 17);
+   background: rgba(18,18,18,255);
    overflow: scroll;
    grid-column-start:2 ;
    grid-column-end:3;
