@@ -9,10 +9,9 @@ body {
     color: rgb(224, 225, 226);
     width:100vw;
     height: 100vh;
-    border:5px;
-    
     
 }
+
 
 .gridarea{
     position: relative;
@@ -25,15 +24,23 @@ main{
     border: 0.1%;
     margin:0.4%;
     padding: 3%;
-   
    font-size: 22px;
    border-radius: 12px;
    background: #1c1c1c;
-   overflow: scroll;
-   grid-column-start:2 ;
-   grid-column-end:3;
+   
+   
 
 }
+
+.caja{
+    margin:.1%;
+    width:72vw ;
+    height:75vh;
+    overflow: scroll;
+   
+}
+
+
 footer{
     background: mediumorchid;
     grid-column-start: 1;
@@ -42,8 +49,8 @@ footer{
 }
 
 aside{
-    margin:0.5rem;
-    font-size: 0.75rem;
+    margin:0.5em;
+    font-size: 0.75em;
     border-radius: 12px;
     background-color: #1c1c1c;
     grid-column-start:1 ;
@@ -108,9 +115,12 @@ aside{
     justify-content: start;
 }
 
-.s{
+.caja2{
+    width: 24vw ;
+    height: 15vh;
+    margin-bottom:12%;
+    margin-top: 12%;
     overflow: scroll;
-
 }
 
 .botton{
@@ -207,8 +217,8 @@ ul{
 
 
     
-
-/*nav {
+/*
+nav {
     display: flex;
     justify-content: space-between;
     flex-direction: column;
@@ -225,8 +235,8 @@ nav a {
 
 nav a:hover {
     background-color: #555;
-}
-*/
+}*/
+
 p{
     margin: 1em;
     width: 8em;
