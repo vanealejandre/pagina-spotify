@@ -197,25 +197,21 @@ aside{
     }
 
     .botton4{
-        margin-top: 1em;
-    margin-left: 1em;
-    margin-right: 1em;
-    margin-bottom: 1em;
-    padding-left: 2em;
-    padding-right: 2em;
-    padding-top: 1em;
-    padding-bottom: 1em;
+    margin: 1em;
+    padding: 1em;
     border-radius:  8em;
     background-color: rgb(255, 255, 255);
-
+    
+    
     }
     
     .btn{
         color:rgb(27, 27, 27);
     }
     .btn2{
-      
+        width: 50vw;
         color:rgb(250, 248, 246);
+        display: inline-block;
     }
 
     a{
@@ -247,6 +243,13 @@ ul{
 footer{
     margin: .4%;
     padding: .20%;
+}
+
+.caja5{
+    margin:.1%;
+    padding: .1%;
+    display: inline;
+
 }
 
 
